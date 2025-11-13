@@ -38,7 +38,7 @@
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "auto",
         "controls_type": "numbers",
