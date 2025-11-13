@@ -77,32 +77,6 @@
         "product_card_text_color": ""
       }
     },
-    "rich_text_4kerdD": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_x3qi8h": {
-          "type": "heading",
-          "settings": {
-            "text": "WHAT THEY’RE SAYING ABOUT US",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_x3qi8h"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "media_with_text_WWhUDV": {
       "type": "media-with-text",
       "blocks": {
@@ -137,6 +111,32 @@
         "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
+      }
+    },
+    "rich_text_4kerdD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_x3qi8h": {
+          "type": "heading",
+          "settings": {
+            "text": "WHAT THEY’RE SAYING ABOUT US",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_x3qi8h"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "testimonials_6mCWWV": {
@@ -276,7 +276,7 @@
             "subheading": "COMING SOON",
             "title": "YOUR STORE",
             "content": "<p>VALORISE IS ARRIVING IN PARIS</p>",
-            "link_text": "DISCOVER",
+            "link_text": "COMING SOON",
             "link_url": "",
             "background": "#ffffff",
             "background_gradient": "",
@@ -301,8 +301,8 @@
   "order": [
     "slideshow",
     "featured_collection_ndjwBz",
-    "rich_text_4kerdD",
     "media_with_text_WWhUDV",
+    "rich_text_4kerdD",
     "testimonials_6mCWWV",
     "multi_column_jtWwCd",
     "media_with_text_3ppDgP"
