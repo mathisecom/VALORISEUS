@@ -54,7 +54,9 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "valorise-move-travel-with-your-family-stress-free"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
