@@ -18,6 +18,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-box",
+            "custom_icon": "shopify://shop_images/paiement-securise_2.webp",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
@@ -31,6 +32,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-customer-support",
+            "custom_icon": "shopify://shop_images/camion-de-livraison_1.webp",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
@@ -44,6 +46,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
+            "custom_icon": "shopify://shop_images/boite-de-retour_3.webp",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
@@ -52,26 +55,12 @@
             "title": "Refer a friend",
             "content": "<p>Tell your customers about your promotional offers.</p>"
           }
-        },
-        "payment": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-lock",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
-          }
         }
       },
       "block_order": [
         "free-shipping",
         "customer-support",
-        "discount",
-        "payment"
+        "discount"
       ],
       "settings": {
         "full_width": true,
@@ -91,7 +80,8 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
+            "image": "shopify://shop_images/Valorise_-_Logo_primaire_creme.png",
+            "image_width": 170,
             "heading_size": "h3",
             "title": "Sign up for new stories and personal offers",
             "content": ""
