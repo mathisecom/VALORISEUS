@@ -24,8 +24,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "SECURE PAYMENT",
+            "content": "<p>Your payment information is protected with <strong>SSL encryption</strong>.</p>"
           }
         },
         "customer-support": {
@@ -38,8 +38,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "48-HOUR DELIVERY",
+            "content": "<p>Delivery to pickup points or your home within <strong>48 hours</strong>!</p>"
           }
         },
         "discount": {
@@ -52,8 +52,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "title": "FREE RETURNS",
+            "content": "<p><strong>90 days</strong> to change your mind and return your order.</p>"
           }
         }
       },
