@@ -17,19 +17,27 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "% EARLY BLACK FRIDAY -45 %",
+            "url": ""
+          }
+        },
+        "message_4gCBbM": {
+          "type": "message",
+          "settings": {
+            "text": "The Best Offer of the Year!",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_4gCBbM"
       ],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
-        "text_size": "text-xs",
+        "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
