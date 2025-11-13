@@ -191,12 +191,146 @@
         "alternate_media_position": false,
         "spacing": "none"
       }
+    },
+    "multi_column_YwtpP7": {
+      "type": "multi-column",
+      "blocks": {
+        "item_JG4Vph": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_XH9RE8": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HAnCPV": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_JG4Vph",
+        "item_XH9RE8",
+        "item_HAnCPV"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "#fffaf5",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_cqDbmd": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_AbF6jh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Titre_18.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 120,
+            "subheading": "",
+            "title": "Effortless Safety & Mobility",
+            "content": "<p>The TSA lock keeps your belongings secure at all times, while the 360° spinner wheels ensure a smooth, effortless glide — even when your hands are full.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_AbF6jh"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_3xa8Vp": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_kXFrgL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/CREA_IMAGE_16.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 120,
+            "subheading": "",
+            "title": "5 INTERIOR STORAGE COMPARTMENTS",
+            "content": "<p><strong>43 L (carry-on size):</strong> fits up to 7 child outfits and 5 mom outfits — perfect for a long weekend!</p><p><strong>77 L (checked size):</strong> fits up to 14 child outfits and 12 mom outfits — ideal for a 2-week family vacation!</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#ffffff",
+            "background_gradient": "",
+            "text_color": "#1a1a1a",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_kXFrgL"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
     }
   },
   "order": [
     "main",
     "logo_list_Gf9tXd",
     "custom_liquid_z8Xxed",
-    "media_with_text_XLLERg"
+    "media_with_text_XLLERg",
+    "multi_column_YwtpP7",
+    "media_with_text_cqDbmd",
+    "media_with_text_3xa8Vp"
   ]
 }
