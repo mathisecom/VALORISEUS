@@ -77,6 +77,32 @@
         "product_card_text_color": ""
       }
     },
+    "rich_text_4kerdD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_x3qi8h": {
+          "type": "heading",
+          "settings": {
+            "text": "WHAT THEY’RE SAYING ABOUT US",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_x3qi8h"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "testimonials_6mCWWV": {
       "type": "testimonials",
       "blocks": {
@@ -203,6 +229,7 @@
   "order": [
     "slideshow",
     "featured_collection_ndjwBz",
+    "rich_text_4kerdD",
     "testimonials_6mCWWV",
     "multi_column_jtWwCd"
   ]
