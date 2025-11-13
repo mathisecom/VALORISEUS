@@ -105,6 +105,16 @@
             "content": "<p><strong>Hard Shell:</strong> Polycarbonate<br/><br/><strong>Integrated Seat:</strong> Polypropylene<br/><br/><strong>Inner Lining:</strong> Polyester</p>",
             "page": ""
           }
+        },
+        "collapsible_text_efkXac": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "FAQ",
+            "content": "<h3><strong>How sturdy is the suitcase?</strong></h3><p>Our suitcases are made with a <strong>reinforced hard shell</strong>, tested to withstand pressure and impacts during air travel.</p><p>👉 They can hold up to <strong>150 kg</strong> statically, allowing an adult to sit if needed.</p><p>The <strong>wider base</strong> provides extra stability and smooth rolling on all types of surfaces.</p><h3><strong>Is it safe for children?</strong></h3><p>Yes, each suitcase comes with an <strong>integrated seat and safety belt</strong>.</p><p>✔ Recommended for children <strong>2 years and older</strong><br/><br/>✔ Always use the safety belt and keep one hand on the suitcase while moving</p><p>⚠️ <strong>Not a toy:</strong></p><ul><li><br/>Never leave a child unattended<br/></li><li><br/>Only one child should sit at a time<br/></li><li><br/>Do not seat a child on an empty suitcase<br/></li></ul><h3><strong>Can I take it on a plane?</strong></h3><p>Yes ✅<br/><br/>Our <strong>cabin-size suitcase</strong> is compatible with most airlines.</p><h3><strong>Is it easy to maneuver?</strong></h3><p>✔ <strong>360° silent wheels</strong> for smooth rolling<br/><br/>✔ <strong>Ergonomic adjustable handle</strong><br/><br/>✔ <strong>Wide base</strong> to prevent tipping</p><p>It glides effortlessly, even with a child seated on it.</p><h3><strong>Do you offer different sizes?</strong></h3><p>Yes.</p><ul><li><br/><strong>Cabin:</strong> Ideal for airplane travel<br/></li><li><br/><strong>Checked:</strong> XL capacity<br/></li></ul><h3><strong>Where do you deliver?</strong></h3><p>We ship <strong>all across France 🇫🇷</strong> and most European countries.</p><p>👉 <strong>48h Express Delivery</strong> available</p><h3><strong>What is the delivery time?</strong></h3><p>📦 Orders are shipped within <strong>48 business hours</strong> from our warehouses in France.</p><p>👉 Delivery to your <strong>home or pickup point</strong>, depending on your choice</p><h3><strong>What are your commitments?</strong></h3><p>✔ <strong>5-year warranty</strong> included<br/><br/>✔ <strong>60-day risk-free trial:</strong> satisfied or refunded<br/><br/>✔ Customer service available <strong>6 days a week (09:00–17:00)</strong></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -119,7 +129,8 @@
         "liquid_4FdUJY",
         "collapsible_text_FRBbVd",
         "collapsible_text_JbMGmr",
-        "collapsible_text_TTXKUt"
+        "collapsible_text_TTXKUt",
+        "collapsible_text_efkXac"
       ],
       "settings": {
         "full_width": true,
