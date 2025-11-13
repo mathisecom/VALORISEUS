@@ -145,6 +145,7 @@
         "testimonial_d86h4X": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/R6M12331.jpg",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
@@ -156,6 +157,7 @@
         "testimonial_j6dghP": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/G_8.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
@@ -167,6 +169,7 @@
         "testimonial_RGJeaF": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/G_6.png",
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
