@@ -85,6 +85,16 @@
             "content": "<p><strong>Cabin Size Dimensions:</strong><br/><br/>Height: 51 cm<br/><br/>Width: 38 cm<br/><br/>Depth: 29 cm<br/><br/>Weight: 4.2 kg<br/><br/>Volume: 43 L</p><p><strong>Checked Size Dimensions:</strong><br/><br/>Height: 51 cm<br/><br/>Width: 38 cm<br/><br/>Depth: 29 cm<br/><br/>Weight: 4.2 kg<br/><br/>Volume: 77 L</p>",
             "page": ""
           }
+        },
+        "collapsible_text_JbMGmr": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "SHIPPING & RETURNS",
+            "content": "<h3>🚚 <strong>Shipping</strong></h3><p>Orders are dispatched within <strong>48 business hours</strong> from our warehouses.</p><p><strong>Pickup point delivery</strong> available.</p><p><strong>Free shipping</strong> on orders over <strong>€99</strong>.</p><p><strong>Standard Europe delivery:</strong> 2–5 business days — €9.90.</p><h3>↩️ <strong>Returns</strong></h3><p><strong>60-day risk-free trial</strong> from the day you receive your order.</p><p>Product must be unused, with original tags and packaging.</p><p>Refunds are issued within <strong>3–5 business days</strong> after inspection.</p><p>Exchanges available depending on stock.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -97,7 +107,8 @@
         "buy_buttons",
         "liquid_9wQLNK",
         "liquid_4FdUJY",
-        "collapsible_text_FRBbVd"
+        "collapsible_text_FRBbVd",
+        "collapsible_text_JbMGmr"
       ],
       "settings": {
         "full_width": true,
