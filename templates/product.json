@@ -79,31 +79,22 @@
         "input_text_color": ""
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "custom_liquid_z8Xxed": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "{% if product.metafields.custom.video_hero != blank %}\n  <div class=\"pdp-hero-video\" aria-label=\"Démonstration\">\n    <video class=\"pdp-hero-video__el\"\n           autoplay muted loop playsinline\n           preload=\"metadata\"\n           poster=\"{{ product.featured_media | image_url: width: 1200 }}\">\n      <source src=\"{{ product.metafields.custom.video_hero | file_url }}\" type=\"video/mp4\">\n    </video>\n  </div>\n\n  <style>\n    .pdp-hero-video{border-radius:12px;overflow:hidden;margin-bottom:12px}\n    .pdp-hero-video__el{width:100%;height:auto;display:block;background:#000}\n  </style>\n\n  <script>\n    document.addEventListener('DOMContentLoaded',function(){\n      const v=document.querySelector('.pdp-hero-video__el');\n      if(!v) return;\n      const playSafe=()=>v.play().catch(()=>{});\n      playSafe();\n      const io=new IntersectionObserver(es=>{\n        es.forEach(e=> e.isIntersecting ? playSafe() : v.pause());\n      },{threshold:.3});\n      io.observe(v);\n    });\n  </script>\n{% endif %}",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "text_color": ""
       }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "custom_liquid_z8Xxed"
   ]
 }
