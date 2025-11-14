@@ -272,7 +272,7 @@
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2025-07-01_at_14.39.37.jpg",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "icon_width": 48,
