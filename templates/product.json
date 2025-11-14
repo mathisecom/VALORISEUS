@@ -37,6 +37,12 @@
             "liquid": "<div class=\"hero-bullets\">\n  <style>\n    .hero-bullets {\n      width: 100%;\n      margin: 0;\n      padding: 0;\n      text-align: left;\n      display: flex;\n      justify-content: flex-start;\n      margin-bottom: 0 !important;\n    }\n\n    @media (min-width: 480px) {\n      .hero-bullets { padding-left: 8px; }\n    }\n\n    .hero-bullets .hb-list {\n      display: flex;\n      flex-direction: column;\n      gap: 12px;\n      align-items: flex-start;\n      margin: 0;\n      padding: 0;\n      list-style: none;\n      width: 100%;\n    }\n\n    .hero-bullets .hb-item {\n      display: flex;\n      align-items: flex-start;\n      justify-content: flex-start;\n      gap: 14px;\n      width: 100%;\n      text-align: left;\n    }\n\n    .hero-bullets .hb-icn {\n      width: 64px; height: 64px;\n      flex: 0 0 auto;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n    }\n\n    .hero-bullets .hb-icn img {\n      width: 100%;\n      height: 100%;\n      object-fit: contain;\n      display: block;\n    }\n\n    .hero-bullets .hb-text {\n      flex: 1;\n      text-align: left;\n      display: flex;\n      flex-direction: column;\n      align-items: flex-start;\n    }\n\n    .hero-bullets .hb-title {\n      margin: 0 0 3px 0;\n      font-weight: 700;\n      color: #111;\n      font-size: clamp(14px, 2.8vw, 17px);\n      line-height: 1.25;\n    }\n\n    .hero-bullets .hb-sub {\n      margin: 0;\n      color: #555;\n      font-size: clamp(13px, 2.6vw, 15px);\n      line-height: 1.35;\n    }\n\n    @media (max-width: 420px) {\n      .hero-bullets { padding-left: 0 !important; }\n      .hero-bullets .hb-item { gap: 10px; }\n      .hero-bullets .hb-icn { width: 52px; height: 52px; }\n      .hero-bullets .hb-title { font-size: 13.5px; }\n      .hero-bullets .hb-sub { font-size: 12.5px; }\n    }\n  </style>\n\n  <ul class=\"hb-list\" role=\"list\" aria-label=\"Main benefits\">\n    <li class=\"hb-item\">\n      <span class=\"hb-icn\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0811/5909/4614/files/Icone_confort_orange.svg?v=1756901566\" alt=\"\">\n      </span>\n      <div class=\"hb-text\">\n        <p class=\"hb-title\">Seat up to 150 kg — kids and adults</p>\n        <p class=\"hb-sub\">Your child sits. You push. You can sit too.</p>\n      </div>\n    </li>\n\n    <li class=\"hb-item\">\n      <span class=\"hb-icn\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0811/5909/4614/files/Icone_sans_effort_orange.svg?v=1756901566\" alt=\"\">\n      </span>\n      <div class=\"hb-text\">\n        <p class=\"hb-title\">360° wheels — ultra-silent</p>\n        <p class=\"hb-sub\">Smooth glide, precise control</p>\n      </div>\n    </li>\n\n    <li class=\"hb-item\">\n      <span class=\"hb-icn\">\n        <img src=\"https://cdn.shopify.com/s/files/1/0811/5909/4614/files/Icone_interieur_orange.svg?v=1756901566\" alt=\"\">\n      </span>\n      <div class=\"hb-text\">\n        <p class=\"hb-title\">TSA — impossible to open with a pen</p>\n        <p class=\"hb-sub\">No zip. Maximum security.</p>\n      </div>\n    </li>\n  </ul>\n</div>"
           }
         },
+        "liquid_wRe8Xe": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div data-rapi-id=\"rapi_6438ba4f367534\"></div>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -128,6 +134,7 @@
         "text_mkEhYp",
         "price",
         "liquid_TjPXFy",
+        "liquid_wRe8Xe",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
