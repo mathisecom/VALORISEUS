@@ -276,6 +276,7 @@
         "item_JG4Vph": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/R6M19997-Modifier.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -288,6 +289,7 @@
         "item_XH9RE8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/R6M12791_3bb0c19e-6a90-4127-a58d-b5120d490067.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -300,6 +302,46 @@
         "item_HAnCPV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_-_2025-08-15T000537.677.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_6zxdXP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/R6M13017.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qKDRjA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/R6M11921-Modifier-Modifier_copie.jpg",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JezPFh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/R6M12060.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -313,7 +355,10 @@
       "block_order": [
         "item_JG4Vph",
         "item_XH9RE8",
-        "item_HAnCPV"
+        "item_HAnCPV",
+        "item_6zxdXP",
+        "item_qKDRjA",
+        "item_JezPFh"
       ],
       "name": "Multi-column",
       "settings": {
