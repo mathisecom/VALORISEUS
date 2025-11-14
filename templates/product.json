@@ -417,9 +417,9 @@
         "image_kXFrgL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/CREA_IMAGE_16.webp",
+            "image": "shopify://shop_images/CREA_IMAGE_16_28cc89f0-2292-42e7-98ca-a5568ac6a825.webp",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center text-center",
             "icon": "none",
             "custom_icon": "shopify://shop_images/Icone_interieur_noir.svg",
