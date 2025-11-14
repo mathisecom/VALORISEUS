@@ -164,14 +164,15 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Titre.svg",
-            "logo_width": 170,
+            "logo_width": 180,
             "link": ""
           }
         },
         "logo_MnW6AP": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Titre_3.svg",
+            "logo_width": 180,
             "link": ""
           }
         },
@@ -179,15 +180,15 @@
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Titre_1.svg",
-            "logo_width": 170,
+            "logo_width": 180,
             "link": ""
           }
         },
         "logo_YRENEq": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Titre_2.svg",
-            "logo_width": 170,
+            "logo": "shopify://shop_images/Titre_4.svg",
+            "logo_width": 180,
             "link": ""
           }
         }
