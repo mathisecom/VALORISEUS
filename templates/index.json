@@ -210,9 +210,9 @@
           "settings": {
             "image": "shopify://shop_images/R6M12265.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "DURABILITY",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Solid materials and premium craftsmanship: our suitcase is built to withstand even the most demanding trips.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -223,9 +223,9 @@
           "settings": {
             "image": "shopify://shop_images/R6M12760.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "COMMITMENT",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>A responsible design — less waste, more awareness. Traveling well also means traveling better.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -236,9 +236,9 @@
           "settings": {
             "image": "shopify://shop_images/R6M12791.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "ROBUST MATERIALS",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Crafted with premium materials, the suitcase combines lightness and durability, making it ideal for frequent travel without ever letting you down.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
