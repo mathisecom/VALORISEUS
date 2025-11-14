@@ -92,14 +92,14 @@
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
-            "menu_title": ""
+            "menu_title": "LEGAL INFORMATION"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "CONTACT US",
+            "content": "<p><a><strong>contact@valoriseparis.fr</strong></a></p><p><strong>VALORISE</strong><br/><br/>231 Rue Saint-Honoré<br/><br/>75001 Paris<br/><br/>France</p><p>Discover the revolutionary suitcase designed to simplify family travel: our French-engineered suitcase features an integrated child seat, thoughtfully created by experts to meet the needs of both professionals and everyday families.</p>",
             "enable_follow_on_shop": true
           }
         }
