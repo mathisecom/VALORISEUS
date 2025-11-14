@@ -448,6 +448,32 @@
         "spacing": "none"
       }
     },
+    "rich_text_dzXeY3": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iPXfyT": {
+          "type": "heading",
+          "settings": {
+            "text": "TRAVELING AS A FAMILY",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_iPXfyT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_link_blocks_DYbPEm": {
       "type": "image-link-blocks",
       "blocks": {
@@ -652,6 +678,7 @@
     "multi_column_YwtpP7",
     "media_with_text_cqDbmd",
     "media_with_text_3xa8Vp",
+    "rich_text_dzXeY3",
     "image_link_blocks_DYbPEm",
     "rich_text_hX6jVQ",
     "testimonials_cWTRTf"
