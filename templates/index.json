@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/VOS_PIeces_MOTOS_ET_SCOOTER.jpg",
-            "mobile_image": "shopify://shop_images/MEILLEURE_OFFRE_DE_L_ANNEe.jpg",
+            "mobile_image": "shopify://shop_images/MEILLEURE_OFFRE_DE_L_ANNEe_1.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
