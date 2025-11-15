@@ -74,6 +74,12 @@
             "payment_button_text_color": ""
           }
         },
+        "videowise_video_commerce_videowise_page_widgets_hjbpCQ": {
+          "type": "shopify://apps/videowise-video-commerce/blocks/videowise-page-widgets/b48d6c0c-3e3f-4791-a9ab-a5ab7ec82f4d",
+          "settings": {
+            "videowise_embed": ""
+          }
+        },
         "liquid_9wQLNK": {
           "type": "liquid",
           "settings": {
@@ -143,6 +149,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "videowise_video_commerce_videowise_page_widgets_hjbpCQ",
         "liquid_9wQLNK",
         "liquid_4FdUJY",
         "liquid_eR8dYM",
