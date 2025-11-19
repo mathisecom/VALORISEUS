@@ -74,17 +74,10 @@
             "payment_button_text_color": ""
           }
         },
-        "liquid_Ke9wKD": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<script>tolstoyAppKey=\"5f9284a4-ca6c-4854-aad4-3248c72b7e7f\"</script>\n    <script type=\"module\"\n      async\n      src=\"https://widget.gotolstoy.com/we/widget.js\"\n    >\n    </script>\n    <script\n      type=\"text/javascript\"\n      nomodule\n      async\n      src=\"https://widget.gotolstoy.com/widget/widget.js\"\n    ></script>\n    <script type=\"module\" src=\"https://play.gotolstoy.com/widget-v2/widget.js\"></script>"
-          }
-        },
         "tolstoy_shoppable_video_quiz_stories_block_4fTJrC": {
           "type": "shopify://apps/tolstoy-shoppable-video-quiz/blocks/stories-block/06fa8282-42ff-403e-b67c-1936776aed11",
-          "disabled": true,
           "settings": {
-            "publishId": "publishId"
+            "publishId": "mz27p3rixwi2n"
           }
         },
         "liquid_9wQLNK": {
@@ -156,7 +149,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "liquid_Ke9wKD",
         "tolstoy_shoppable_video_quiz_stories_block_4fTJrC",
         "liquid_9wQLNK",
         "liquid_4FdUJY",
