@@ -43,6 +43,7 @@
         },
         "liquid_wRe8Xe": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<div data-rapi-id=\"rapi_6438ba4f367534\"></div>"
           }
