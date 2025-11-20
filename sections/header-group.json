@@ -24,14 +24,22 @@
         "message_4gCBbM": {
           "type": "message",
           "settings": {
-            "text": "The Best Offer of the Year!",
+            "text": "CARRY ON 199€ — Best Price of the Year",
+            "url": ""
+          }
+        },
+        "message_Mg6MBt": {
+          "type": "message",
+          "settings": {
+            "text": "Black Friday: 100€ Free Gifts Included",
             "url": ""
           }
         }
       },
       "block_order": [
         "message",
-        "message_4gCBbM"
+        "message_4gCBbM",
+        "message_Mg6MBt"
       ],
       "settings": {
         "enable_sticky": false,
