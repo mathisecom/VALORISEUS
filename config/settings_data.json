@@ -164,5 +164,12 @@
       "product_color_display": "swatch",
       "product_info_alignment": "center"
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "/* ----- Titre produit + sous-titre (PDP uniquement) ----- */.product-info .product-info__title {font-size: clamp(22px, 3.2vw, 28px); line-height: 1.12; font-weight: 700; color: #111; margin: 0 0 4px;}",
+      ".product-info .product-subtitle {display: inline-block; /* force le retour à la ligne propre après le H1 */ font-size: 15px; line-height: 1.35; font-weight: 400; color: #555; letter-spacing: 0.1px;}",
+      " /* Optionnel : un poil plus petit sur très petit écran */@media (max-width: 380px) {.product-info .product-info__title {font-size: 21px; } .product-info .product-subtitle {font-size: 14px; }}"
+    ]
   }
 }
